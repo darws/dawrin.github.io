@@ -1,0 +1,62 @@
+h1 {
+ font-family: 'Satisfy', cursive;
+   
+}
+
+
+
+.rowfooter {
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    font-family: 'Chonburi', cursive;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+    
+    
+row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+   
+}
+.mid {
+    background-color: silver;
+    padding: 5px;
+    color: black;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Forum', cursive;
+    display: flex;
+    justify-content: center;
+}
+.aboutme{
+    border:8765px blue;   
+}
+
+
+
+
+.mid{
+    display: flex;
+    justify-content: center;
+    }
+    
+    
+    
+    
+.contact{
+    display:block;
+    justify-content:flex-start;
+    }
+    
